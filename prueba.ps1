@@ -1,2 +1,2 @@
 write-host "Hello World"
-choco
+write-host choco
